@@ -25,7 +25,7 @@ var url = 'https://data.usajobs.gov/api/Search?ResultsPerPage=500'
 				// insert your email address
 				'User-Agent': 'your.email@goeshere.com'
 				// include the Authorization-Key that usajobs.gov gave you
-				'Authorization-Key': ' here goes your Authorization-Key '
+				'Authorization-Key': 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 				
 		}
 			// create function and name all the variables you want to pull from api
