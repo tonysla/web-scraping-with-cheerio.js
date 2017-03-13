@@ -1,4 +1,4 @@
-// keep in mind that I do not authorize anybody to use indeed's website 
+// I do not authorize anybody to use indeed's website 
 // data. The data scraped in here are only for demonstration purposes 
 // load 'fs', it servers for writting and reading data
 // load 'request'
