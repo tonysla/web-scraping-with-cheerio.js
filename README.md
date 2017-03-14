@@ -6,7 +6,7 @@ This repository is about collecting data, web scraping, using cheerio.js &amp; a
 * Open terminal - cmd for Windows
 * Change directory from current to created folder above
 
-	mine-MacBook-Pro:~ mycomputer$ cd Desktop/new_folder/
+		mine-MacBook-Pro:~ mycomputer$ cd Desktop/new_folder/
 
 
 ## Installation
