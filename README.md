@@ -7,8 +7,8 @@ This repository is about collecting data, web scraping, using cheerio.js &amp; a
 * Open `terminal - cmd` for Windows  
 * Change directory from current to created folder above
 
-	  user-MacBook-Pro:~ mycomputer$ cd Desktop/new_folder/
-	  user-MacBook-Pro:new_folder mycomputer$
+	  	user-MacBook-Pro:~ mycomputer$ cd Desktop/new_folder/
+	  	user-MacBook-Pro:new_folder mycomputer$
 
 ## Installation
 First install node.js which comes with npm installed.
@@ -16,19 +16,19 @@ First install node.js which comes with npm installed.
 * Go to **nodejs.org**, click ‘install’, and run through the install process.
 * From your `terminal - cmd` in the folder directory shown above, install the following:
 	
-	  user-MacBook-Pro:new_folder mycomputer$ npm install request
-	  user-MacBook-Pro:new_folder mycomputer$ npm install fs
-	  user-MacBook-Pro:new_folder mycomputer$ npm install json2csv
-	  user-MacBook-Pro:new_folder mycomputer$ npm install cheerio
+	  	user-MacBook-Pro:new_folder mycomputer$ npm install request
+	  	user-MacBook-Pro:new_folder mycomputer$ npm install fs
+	  	user-MacBook-Pro:new_folder mycomputer$ npm install json2csv
+	  	user-MacBook-Pro:new_folder mycomputer$ npm install cheerio
 		
 * After installation you will see a folder inside your working folder named "node_modules"
 * Installation instructions above are for **Mac** users, check on the web for different operating system (OS). 
 * **Test installation** of node.js & npm
 
-	  user-MacBook-Pro:~ mycomputer$ node -v
-	  v6.10.0
-	  user-MacBook-Pro:~ mycomputer$ npm -v
-	  4.4.1
+	  	user-MacBook-Pro:~ mycomputer$ node -v
+	  	v6.10.0
+	  	user-MacBook-Pro:~ mycomputer$ npm -v
+	  	4.4.1
 	
 
 
