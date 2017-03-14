@@ -4,7 +4,8 @@ This repository is about collecting data, web scraping, using cheerio.js &amp; a
 ## Preparations
 * Create a folder in your preferred directory
 * Plan to use a text editor. 
-* Open `terminal - cmd` for Windows & change directory from current to created folder above
+* Open *terminal - cmd* for Windows 
+* From *terminal* change directory from current to created folder above
 
 	  	user-MacBook-Pro:~ mycomputer$ cd Desktop/new_folder/
 	  	user-MacBook-Pro:new_folder mycomputer$
