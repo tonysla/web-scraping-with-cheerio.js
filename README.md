@@ -3,6 +3,8 @@ This repository is about collecting data, web scraping, using cheerio.js &amp; a
 
 ## Preparations
 * Create a folder in your preferred directory
+* Open terminal - cmd for Windows
+
 
 ## Installation
 cheerio.js requires installation of node.js. Go to nodejs webpage, download and follow instructions for installation.
