@@ -7,8 +7,8 @@ This repository is about collecting data, web scraping, using cheerio.js &amp; a
 * Change directory from current to created folder above
 
 		mine-MacBook-Pro:~ mycomputer$ cd Desktop/new_folder/
-
-
+		mine-MacBook-Pro:new_folder mycomputer$
+		
 ## Installation
 cheerio.js requires installation of node.js. Go to nodejs webpage, download and follow instructions for installation.
 
