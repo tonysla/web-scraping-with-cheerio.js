@@ -1,10 +1,10 @@
 # Cheerio.js: Web scraping with cheerio.js
-This repository is about web scraping data analyst jobs posted on indeed.com using cheerio.js &amp; also collecting data from usajobs.gov api using node.js and request. I hope you will find it helpful and get what you need, as I learn from others too. 
+This repository is about web scraping data analyst jobs posted on indeed.com using cheerio.js. Also collecting data from usajobs.gov api using node.js and request. I hope you will find it helpful and get what you need, as I learn from others too. 
 
 ## Preparations
 * Create a folder in your preferred directory
 * Plan to use a text editor. 
-* Open *terminal - cmd* for Windows 
+* Open terminal - cmd for Windows 
 * From *terminal* change directory from current to created folder above
 
 	  	user-MacBook-Pro:~ mycomputer$ cd Desktop/new_folder/
