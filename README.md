@@ -4,7 +4,10 @@ This repository is about collecting data, web scraping, using cheerio.js &amp; a
 ## Installation
 cheerio.js requires installation of node.js. Go to nodejs webpage, download and follow instructions for installation.
 
-	nodejs
+**Mac**
+
+Go to *nodejs.org*, click ‘install’, and run through the install process.
+	
 	npm install request
 	npm install fs
 	npm install json2csv
