@@ -12,7 +12,13 @@ This repository is about collecting data, web scraping, using cheerio.js &amp; a
 ## Installation
 First install node.js which comes with npm installed.
 
-Go to **nodejs.org**, click ‘install’, and run through the install process.
+* Go to **nodejs.org**, click ‘install’, and run through the install process.
+* From your `terminal - cmd` in the folder directory shown above, install the following:
+	
+	npm install request
+	npm install fs
+	npm install json2csv
+	npm install cheerio
 
 **Test installation** of node.js & npm
 
@@ -20,12 +26,5 @@ Go to **nodejs.org**, click ‘install’, and run through the install process.
 	v6.10.0
 	user-MacBook-Pro:~ mycomputer$ npm -v
 	4.4.1
-	
-	npm install request
-	npm install fs
-	npm install json2csv
-	npm install cheerio
-
-
 
 
