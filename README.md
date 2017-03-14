@@ -23,8 +23,7 @@ First install node.js which comes with npm installed.
 		
 * After installation you will see a folder inside your working folder named "node_modules"
 * Installation instructions above are for **Mac** users, check on the web for different operating system (OS). 
-
-**Test installation** of node.js & npm
+* **Test installation** of node.js & npm
 
 	user-MacBook-Pro:~ mycomputer$ node -v
 	v6.10.0
