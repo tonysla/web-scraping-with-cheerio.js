@@ -22,7 +22,7 @@ First install node.js which comes with npm installed.
 		user-MacBook-Pro:new_folder mycomputer$ npm install cheerio
 		
 * After installation you will see a folder inside your working folder named "node_modules"
-* Installation instructions above are for **Mac** users, check on the web for different operating system. 
+* Installation instructions above are for **Mac** users, check on the web for different operating system (OS). 
 
 **Test installation** of node.js & npm
 
