@@ -6,6 +6,12 @@ Web scraping with cheerio.js requires installation of node.js. Go to nodejs webp
 
 npm install request
 
+npm install fs
+
+npm install json2csv
+
+
+
 
 
 
