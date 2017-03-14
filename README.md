@@ -4,8 +4,9 @@ This repository is about web scraping data analyst jobs posted on indeed.com usi
 ## Preparations
 * Create a folder in your preferred directory
 * Plan to use a text editor. 
-* Open terminal - cmd for Windows 
-* From *terminal* change directory from current to created folder above
+* Sign up on **usajobs.gov** and receive `api` "Authorization_Key"
+* Open `terminal - cmd` for Windows 
+* From `terminal - cmd` change directory from current to created folder above
 
 	  	user-MacBook-Pro:~ mycomputer$ cd Desktop/new_folder/
 	  	user-MacBook-Pro:new_folder mycomputer$
