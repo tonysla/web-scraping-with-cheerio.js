@@ -10,7 +10,7 @@ This repository is about collecting data, web scraping, using cheerio.js &amp; a
 		mine-MacBook-Pro:new_folder mycomputer$
 		
 ## Installation
-cheerio.js requires installation of node.js. 
+First install node.js
 
 Go to **nodejs.org**, click ‘install’, and run through the install process.
 	
