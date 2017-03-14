@@ -1,4 +1,4 @@
-# web-scraping-with-cheerio.js
+# Cheerio.js: Web scraping with cheerio.js
 This repository is about collecting data, web scraping, using cheerio.js &amp; also collecting data from usajobs.gov api using node.js and request. 
 
 ## Installation
