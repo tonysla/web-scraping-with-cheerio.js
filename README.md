@@ -15,10 +15,13 @@ First install node.js which comes with npm installed.
 * Go to **nodejs.org**, click ‘install’, and run through the install process.
 * From your `terminal - cmd` in the folder directory shown above, install the following:
 	
-	npm install request
-	npm install fs
-	npm install json2csv
-	npm install cheerio
+		user-MacBook-Pro:new_folder mycomputer$ npm install request
+		user-MacBook-Pro:new_folder mycomputer$ npm install fs
+		user-MacBook-Pro:new_folder mycomputer$ npm install json2csv
+		user-MacBook-Pro:new_folder mycomputer$ npm install cheerio
+		
+* After installation you will see a folder inside your working folder named "node_modules"
+* Installation instructions above are for **Mac** users, check on the web if your system is different. 
 
 **Test installation** of node.js & npm
 
@@ -26,5 +29,6 @@ First install node.js which comes with npm installed.
 	v6.10.0
 	user-MacBook-Pro:~ mycomputer$ npm -v
 	4.4.1
+	
 
 
