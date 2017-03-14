@@ -22,6 +22,6 @@ Go to **nodejs.org**, click ‘install’, and run through the install process.
 * Open `terminal - cmd` for Windows 
 * Change directory from current to created folder above
 
-	user-MacBook-Pro:~ mycomputer$ cd Desktop/new_folder/
-	user-MacBook-Pro:new_folder mycomputer$
+		user-MacBook-Pro:~ mycomputer$ cd Desktop/new_folder/
+		user-MacBook-Pro:new_folder mycomputer$
 
