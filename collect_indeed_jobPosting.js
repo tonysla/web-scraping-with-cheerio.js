@@ -1,7 +1,7 @@
 // I do not authorize anybody to use indeed's website 
 // data. The data scraped in here are only for demonstration purposes 
 // load 'fs', it servers for writting and reading data
-// load 'request'
+// load 'request' is designed to be the simplest way possible to make http calls.
 // load 'json2csv', it serves for writting and reading 'json' & 'csv' files.
 // load 'cheerio', it enables web scraping. 
 
