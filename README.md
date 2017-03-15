@@ -32,8 +32,9 @@ First install `node.js` which comes with `npm` installed.
 	  	4.4.1
 		
 ## Folder & files
-* In the folder there are four files with data. Two `csv` files and two `json` that contain data. The `indeed_jobData.csv` & `indeed_jobData.json` contain the same information and are product of `collect_indeed_job_posting.js`
+* In the folder there are four files with data. Two `csv` files and two `json` that contain data. The `indeed_jobData.csv` & `indeed_jobData.json` contain the same information and are product of `collect_indeed_jobPosting.js` & `indeedIDs.json` files. The `usajobs_allJobs.csv` & `usajobs_allJobs.json` contain same data and are product of `usAjobs_all_type.js` file. 
 
+## Web scraping with cheerio:
 
 
 
