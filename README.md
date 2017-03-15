@@ -1,6 +1,7 @@
 # Cheerio.js: Web scraping with cheerio.js
 This repository is about web scraping data analyst jobs posted on indeed.com using cheerio.js. Also collecting data from usajobs.gov api using node.js and request. 
 
+## Preparation
 * Create a folder in your preferred directory
 * Plan to use a text editor. 
 * Sign up on **usajobs.gov** and receive `api` "Authorization_Key"
