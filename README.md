@@ -31,7 +31,8 @@ First install `node.js` which comes with `npm` installed.
 	  	user-MacBook-Pro:~ mycomputer$ npm -v
 	  	4.4.1
 		
-		
+## Folder & files
+* In the folder there are four files with data. 
 
 
 
