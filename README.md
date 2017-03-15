@@ -37,4 +37,4 @@ First install `node.js` which comes with `npm` installed.
 
 
 
-* **Note** I do not authorize anybody to use indeed's website data. The data scraped in here are only for demonstration purposes
+		**Note** I do not authorize anybody to use indeed's website data. The data scraped in here are only for demonstration purposes
