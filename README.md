@@ -32,7 +32,7 @@ First install `node.js` which comes with `npm` installed.
 	  	4.4.1
 		
 ## Folder & files
-* In the folder there are four files with data. Two `csv` files and two `json` that contain data. The `indeed_jobposting.csv` & `indeed_jobposting.json` contain the same information and are product of 
+* In the folder there are four files with data. Two `csv` files and two `json` that contain data. The `indeed_jobData.csv` & `indeed_jobData.json` contain the same information and are product of `collect_indeed_job_posting.js`
 
 
 
