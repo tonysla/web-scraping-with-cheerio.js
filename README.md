@@ -29,7 +29,7 @@ First install `node.js` which comes with `npm` installed.
 
 * From your `terminal - cmd` in the folder directory shown above, install the following:
 	
-		user-MacBook-Pro:new_folder mycomputer$ npm init
+			user-MacBook-Pro:new_folder mycomputer$ npm init
 	  	user-MacBook-Pro:new_folder mycomputer$ npm install request
 	  	user-MacBook-Pro:new_folder mycomputer$ npm install fs
 	  	user-MacBook-Pro:new_folder mycomputer$ npm install json2csv
