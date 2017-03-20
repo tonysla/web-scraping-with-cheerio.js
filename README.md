@@ -22,7 +22,7 @@ First install `node.js` which comes with `npm` installed.
 		
 * Open `terminal - cmd` for Windows 
 
-* From `terminal - cmd` change directory from current to created folder above
+* From `terminal - cmd` change directory from current to create folder above
 
 	  	user-MacBook-Pro:~ mycomputer$ cd Desktop/new_folder/
 	  	user-MacBook-Pro:new_folder mycomputer$
@@ -39,7 +39,7 @@ First install `node.js` which comes with `npm` installed.
 * Installation instructions above are for **Mac** users, check on the web for different operating system (OS). 
 		
 ## Folder & files
-* In the `data` folder there are four files. Two `csv` files and two `json` that contain data. The `indeed_jobData.csv` & `indeed_jobData.json` contain the same information and are product of `collect_indeed_jobPosting.js` & `indeedIDs.json` files. The `usajobs_allJobs.csv` & `usajobs_allJobs.json` contain same data and are product of `usAjobs_all_type.js` file. 
+* In the `data` folder there are four files. Two `csv` files and two `json` that contain data. The `indeed_jobData.csv` & `indeed_jobData.json` contain the same information and are product of `collect_indeed_jobPosting.js` & `indeedIDs.json` files. The `usajobs_allJobs.csv` & `usajobs_allJobs.json` contain the same data and are product of `usAjobs_all_type.js` file. 
 
 ## Web scraping with cheerio:
 Let’s start web scraping using `cheerio.js`. Save `collect_indeed_jobPosting.js` & `indeedIDs.json` into your folder. In `indeedIDs.json` are the ID’s that end the url and make possible web scraping for multiple web pages at once. The ID's file will be used from `collect_indeed_jobPosting.js` file. 
@@ -67,7 +67,7 @@ Let’s start web scraping using `cheerio.js`. Save `collect_indeed_jobPosting.j
 
 		request({url: url, json: true}, function(err, resp, body){
 
-* The first line below is used every time to initiate webscraping. The second and third are variables identifying html tags. The second locates the main/wrapper `div` by its id `#pageContent` and the second the row `div` by its class `.row`. I did not try it, by this code may also work by just using the third line below and get rid of the second line of code.
+* The first line below is used every time to initiate webscraping. The second and the third are variables identifying html tags. The second locates the main/wrapper `div` by its id `#pageContent` and the second the row `div` by its class `.row`. I did not try it, by this code may also work by just using the third line below and get rid of the second line of code.
 
 		var $ = cheerio.load(body);
 		var content = $('#pageContent');
@@ -97,7 +97,7 @@ Let’s start web scraping using `cheerio.js`. Save `collect_indeed_jobPosting.j
 After running the code you will see two additional files in your folder containing the data.
 
 ## Collecting data from usajobs.gov using its api
-There is no need of using `cheerio.js` to collect data from `usajobs.gob`. Open an account with `usajobs.gob`, reveive the Administrative-Key and enter it in `usAjobs_all_type.js` along with your email address. The rest is similar to the above example without the need of using `cheerio.js`, just `request`, `fs` & `json2csv`. 
+There is no need of using `cheerio.js` to collect data from `usajobs.gov`. Open an account with `usajobs.gov`, reveive the `"Authorization_Key"` and enter it in `usAjobs_all_type.js` along with your email address. The rest is similar to the above example without the need of using `cheerio.js`, just `request`, `fs` & `json2csv`. 
 
 
 
