@@ -94,7 +94,12 @@ Let’s start web scraping using `cheerio.js`. Save `collect_indeed_jobPosting.j
 		fs.writeFile(
 		fs.appendFile(
 		
-After running the code you will see two additional files in your folder containing the data.
+After running the code you will see two additional files in your folder containing the data. 
+
+## Use terminal to run the code.   
+
+		node file_name.js 
+		
 
 ## Collecting data from usajobs.gov using its api
 There is no need of using `cheerio.js` to collect data from `usajobs.gov`. Open an account with `usajobs.gov`, reveive the `"Authorization_Key"` and enter it in `usAjobs_all_type.js` along with your email address. The rest is similar to the above example without the need of using `cheerio.js`, just `request`, `fs` & `json2csv`. 
