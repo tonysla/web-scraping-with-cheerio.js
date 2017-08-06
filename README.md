@@ -98,7 +98,7 @@ After running the code you will see two additional files in your folder containi
 
 ## Use terminal to run the code.   
 
-To run the code open the terminal, change directory to the same folder where your code is and then run the code as shown below. Keep in mind that after the `node` right the name of the file as you named it followed by `.js`.
+To run the code open the terminal, change directory to the same folder where your code is and then run the code as shown below. Keep in mind that after the `node` write the name of the file as you named it followed by `.js`.
 
 		node file_name.js 
 		
